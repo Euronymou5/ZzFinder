@@ -23,7 +23,12 @@ pip install -r requirements.txt
 
 > Ejecutamos el script.
 ```
-python3 main.py
+python3 main.py -d <dominio> -w <wordlist>
+```
+
+> Ejemplo
+```
+python3 main.py -d google.com -w /home/wordlists/wordlist.txt
 ```
 
 ## Imagenes
