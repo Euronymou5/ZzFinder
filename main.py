@@ -22,6 +22,7 @@ logo = f"""
 {colores.cyan} ███╔╝   ███╔╝  ██╔══╝  {colores.amarillo}██║██║╚██╗██║██║  ██║{colores.magenta}██╔══╝  ██╔══██╗    
 {colores.cyan}███████╗███████╗██║     {colores.amarillo}██║██║ ╚████║██████╔╝{colores.magenta}███████╗██║  ██║    
 {colores.cyan}╚══════╝╚══════╝╚═╝     {colores.amarillo}╚═╝╚═╝  ╚═══╝╚═════╝ {colores.magenta}╚══════╝╚═╝  ╚═╝    
+                      {colores.rojo} By: Euronymou5
 """
 
 parser = argparse.ArgumentParser()
