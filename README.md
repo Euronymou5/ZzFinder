@@ -28,3 +28,4 @@ python3 main.py
 
 ## Imagenes
 
+![image](https://github.com/Euronymou5/ZzFinder/assets/85043356/d996ce56-80cb-48b6-81e2-e25136dc3058)
