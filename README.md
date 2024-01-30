@@ -34,3 +34,13 @@ python3 main.py -d google.com -w /home/wordlists/wordlist.txt
 ## Imagenes
 
 ![image](https://github.com/Euronymou5/ZzFinder/assets/85043356/d996ce56-80cb-48b6-81e2-e25136dc3058)
+
+# Contacto
+
+*Preguntas, dudas, ideas:*
+
+**• Discord: euronymou5**
+
+*Bugs, Problemas de instalacion*:
+
+• **[Reportar en los GitHub Issues](https://github.com/Euronymou5/ZzFinder/issues)**
